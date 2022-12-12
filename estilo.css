@@ -11,7 +11,7 @@ html{
 }
 /* MENU */
 .contenedor-header{
-    background: #1e2326;
+    background: #b34512de;
     position: fixed;
     width: 100%;
     top: 0;
@@ -67,7 +67,7 @@ html{
 }
 .inicio .contenido-banner{
     padding: 20px;
-    background-color: #1e2326;
+    background-color: #351f86;
     max-width: 350px;
     margin: auto;
     text-align: center;
@@ -107,7 +107,7 @@ html{
     background-color: #1CB698;
 }
 .sobremi{
-    background-color: #1e2326;
+    background-color: #164764;
     color: #fff;
     padding: 50px 20px;
 }
